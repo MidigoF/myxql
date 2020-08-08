@@ -556,4 +556,7 @@ defmodule MyXQL do
       """
     end
   end
+
+  defp unused() do
+  end
 end
