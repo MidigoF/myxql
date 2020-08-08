@@ -557,6 +557,7 @@ defmodule MyXQL do
     end
   end
 
-  defp unused() do
+  def unknown() do
+    Unknown.unknown()
   end
 end
